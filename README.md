@@ -12,7 +12,7 @@ This is a PyTorch implementation of Multi-scale Fusion Dynamic Graph Convolution
 
 # Data Preparation
 
-The dataset can be downloaded from XXX [STSGCN (AAAI-20)](https://github.com/Davidham3/STSGCN).
+The dataset can be downloaded from [STSGCN (AAAI-20)](https://github.com/Davidham3/STSGCN).
 Unzip the downloaded dataset files to the main file directory, the same directory as run.py.
 
 # Requirements
