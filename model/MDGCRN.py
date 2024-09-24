@@ -1,6 +1,5 @@
 import pywt
 
-from model.Attention import Attention
 from model.CLA import GCM
 from model.MDGCRNCell import MDGCRNCell
 import torch
